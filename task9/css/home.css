@@ -1,0 +1,48 @@
+#first{
+	background-color:gray; 
+
+}
+#second{
+	background-color:pink;
+	margin:26px;
+	color:yellow;
+	font-style: italic;
+	}
+	
+.home{
+	margin-left:126px;
+	color: red;
+}
+.product{
+	margin-left: 50px;
+	color:blue;
+
+}
+.contact{
+	margin-left:50px;
+	color: yellow;
+	}
+	img{
+		float:right;
+		height:100px;
+		width: 100px;
+	
+	} 
+	#third{
+		margin:26px;
+		background-color:green;
+		font-style: italic;
+		color:pink; 
+	}
+	#left{
+		height: 200px;
+	
+	}
+	.footer{
+		margin-top:0px;
+		background-color: red;
+		text-align: center;
+	}
+	a.hover{
+		background-color: pink: 
+	}

@@ -1,0 +1,29 @@
+.esc{
+	display: flex;
+	/*align-items: flex-start;
+*/	/*flex-direction: flex-start;*/
+}
+.esc>div{
+	background-color:white;
+	color:black;
+	margin: 10px;
+	width: 200px;
+	line-height: 20px;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+}
+button{
+	font-size: 18px;
+    height: 32px;
+    width: 163px;
+    margin: 10px 25px;
+    background-color: gray;
+    color: white;
+}
+p,h1{
+	padding: 8 15px 0 30px;
+
+}

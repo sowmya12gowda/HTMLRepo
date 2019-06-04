@@ -1,0 +1,41 @@
+.header{
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+
+
+}
+#h1{
+  padding: 10px;
+  background-color: #1E8449;
+  font-size: 40px;
+  height: 80px;
+}
+#h2{
+  display: flex;
+  flex-direction: row;
+  height: 314px;
+}
+#footer{
+    background-color: #1E8449;
+    font-size: 36px;
+    height: 80px;
+    flex-direction:bottom;
+    text-align: center;
+  }
+  #h3{
+    flex-grow: 4;
+    background-color: #F7F9F9;
+    padding: 10px;
+  }
+  #h4{
+      flex-grow: 1;
+      background-color: #FCF3CF;
+      padding: 10px;
+    }
+#h5{
+  flex-grow: 1;
+  padding: 10px;
+  background-color: #D5DBDB;
+}
+  

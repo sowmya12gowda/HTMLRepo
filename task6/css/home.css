@@ -1,0 +1,25 @@
+body{
+	background-color:orange;
+
+}
+#align{
+	text-align: center;
+	color: red;
+}
+#color{
+	font-style: italic;
+	color:blue;
+	text-decoration: none;
+}
+#font{
+color:red;
+}
+#right{
+	padding-left: 70%;
+}
+.move{
+	text-align: center;
+}
+#us{
+	text-align: center;
+}

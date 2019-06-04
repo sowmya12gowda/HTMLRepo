@@ -1,0 +1,50 @@
+body{
+	background-color:rgb(108,52,131);
+}
+.flex-box{
+	display: flex;
+	height: 520px;
+	width: 377px;
+	flex-direction: column;
+	background-color: white;
+	margin-left: 420px;
+	margin-top: 50px;
+}
+.flex-box > div{
+	background-color: transparent;
+	font-size: 20px;
+	height: 50px;
+	width: 100%;
+	margin-top: -2px;
+}
+#about {
+    background-color: #EBDEF0;
+    color:purple;
+}
+#align{
+	margin-left: 127px;
+	color: rgb(131,145,146);
+	padding: 20px;
+}
+	img{
+		border-radius:50%;
+		height: 75px;
+		width: 75px;
+		margin-left: 130px;
+		margin-top: 40px;
+	}
+
+	i{
+		margin-left:20px;
+}
+
+.down{
+		margin-left: 140px;
+}
+b{
+	margin-left: 23px;
+}
+.flex-box > div:hover{
+	background-color:#EBDEF0;
+	color:purple;
+}
